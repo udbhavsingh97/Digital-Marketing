@@ -1,0 +1,46 @@
+Project Tasks:
+
+Imagine yourself as a Digital Marketing Intern or Trainee at Guvi or another prestigious company.
+
+Understand their products or services and create short descriptions for a  minimum of 3 and a maximum of 5 products or services.
+Determine the platform on which the website is developed (Use online tools to identify).
+Test the website's responsive design and mobile optimization (Share the report). Test a minimum of 5 pages (Use Online Tools to find).
+Identify common website design mistakes to avoid, such as cluttered layouts and slow loading times. (List at least 5 suggestions).
+Provide a list of best practices for creating visually appealing and user-friendly website designs.
+Design a landing page for their product or service to generate leads. (Use Mockup or Figma or Any other tools to show the design).
+
+
+
+Project Deliverables:
+
+Presentation slides summarizing the project tasks,  findings and recommendations.
+Share the Landing Page(LP) Design.
+
+
+Here is a list of other companies' websites you can consider for the project task:
+
+https://www.hcl-software.com/ 
+https://www.intellectdesign.com/
+https://www.oracle.com/
+https://www.wipro.com/
+https://www.ibm.com/
+https://www.apple.com/
+https://www.hcltech.com/
+https://hcl.com/
+https://www.tcs.com/
+https://www.infosys.com/ 
+
+
+Landing Page Sample:
+
+https://www.guvi.in/mlp/hyrenet-homepage
+https://www.guvi.in/zen-class/
+https://www.guvi.in/zen-class/business-analyst-course/
+https://www.guvi.in/mlp/artificial-intelligence-and-machine-learning-course 
+https://www.guvi.in/zen-class/full-stack-development-course/
+https://mapledentistrymi.com/smile-with-confidence/
+https://offers.hubspot.com/how-to-optimize-landing-pages-for-conversion
+https://lp.therowhouse.com/try-row-house
+https://www.doordash.com/
+
+Reference for Landing Page(LP): https://blog.hubspot.com/marketing/fantastic-landing-page-examples 
